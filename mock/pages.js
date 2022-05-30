@@ -184,14 +184,17 @@ module.exports = [
             type: "array",
             value: [
               {
+                id: 1,
                 title: "Notice 1",
                 date: "2020-01-01",
               },
               {
+                id: 2,
                 title: "Notice 2",
                 date: "2020-01-01",
               },
               {
+                id: 3,
                 title: "Notice 3",
                 date: "2020-01-01",
               },
